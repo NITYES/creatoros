@@ -1,0 +1,46 @@
+[
+  {
+    "id": "u1_nitesh_01",
+    "name": "Nitesh Dev",
+    "username": "nitesh_01",
+    "email": "nitesh@creatoros.com",
+    "phone": "+919876543210",
+    "location": "Mumbai, IN",
+    "type": "paid",
+    "userType": "creator",
+    "createdAt": "2026-03-29T10:00:00Z"
+  },
+  {
+    "id": "u2_alex_brand",
+    "name": "Alex Rivera",
+    "username": "arivera_media",
+    "email": "alex@brandstream.io",
+    "phone": "+15550123456",
+    "location": "New York, US",
+    "type": "paid",
+    "userType": "brand",
+    "createdAt": "2026-03-25T14:30:00Z"
+  },
+  {
+    "id": "u3_sara_vlog",
+    "name": "Sara Chen",
+    "username": "sara_vlogs",
+    "email": "sara@youtube.com",
+    "phone": "+447700900123",
+    "location": "London, UK",
+    "type": "unpaid",
+    "userType": "creator",
+    "createdAt": "2026-03-28T09:15:00Z"
+  },
+  {
+    "id": "u4_tech_corp",
+    "name": "TechFlow Systems",
+    "username": "techflow_official",
+    "email": "hiring@techflow.dev",
+    "phone": "+493012345678",
+    "location": "Berlin, DE",
+    "type": "paid",
+    "userType": "brand",
+    "createdAt": "2026-03-20T11:45:00Z"
+  }
+]

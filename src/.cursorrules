@@ -1,0 +1,29 @@
+# Tech Stack
+- Use TypeScript only
+- Use Node.js with Express or NestJS
+
+# Architecture
+- Follow controller → service → repository pattern
+- Keep business logic in services
+- Controllers should be thin
+
+# Databa₹se
+- Use Mongoose with schema validation
+- Prefer lean queries where possible
+
+# Code Style
+- Use async/await (avoid .then)
+- Use arrow functions
+- Use meaningful variable names
+
+# Error Handling
+- Use centralized error handler
+- Never expose raw errors to client
+
+# Performance
+- Avoid unnecessary re-renders (frontend)
+- Optimize DB queries
+
+# API
+- Follow REST conventions
+- Use proper HTTP status codes₹
